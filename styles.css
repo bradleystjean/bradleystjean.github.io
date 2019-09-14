@@ -1,5 +1,5 @@
-h1{color: rgb(0,0,100);}
 body{
   background-color: rgb(194, 178, 128);
   background-image:url("myBackground.jpg");
+  h1{color: rgb(0,30,100);}
 }
