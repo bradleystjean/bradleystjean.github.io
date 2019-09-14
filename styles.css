@@ -8,17 +8,16 @@ body{
 }
 #bradley{
   float:left;
-  margin-left:120px;
 }
 #skate{
   float:right;
 }
 #snake{
   float:left;
-  margin-left:150px;
+  margin-left:300px;
 }
 #pat{
   float:right;
-  margin-right:150px;
+  margin-right:300px;
 }
 
