@@ -14,8 +14,10 @@ body{
 }
 #snake{
   float:left;
+  margin-left:30px;
 }
 #pat{
   float:right;
+  margin-right:30px;
 }
 
