@@ -12,4 +12,10 @@ body{
 #skate{
   float:right;
 }
+#snake{
+  float:left;
+}
+#pat{
+  float:right;
+}
 
