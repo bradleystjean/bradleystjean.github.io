@@ -7,6 +7,7 @@ p{color: rgb(255,255,255);
 body{
   background-color: rgb(194, 178, 128);
   background-image:url("myBackground.jpg");
+  width: 100%;
 }
 #bradley{
   float:left;
