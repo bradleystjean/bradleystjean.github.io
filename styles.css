@@ -22,4 +22,8 @@ body{
   float:right;
   margin-right:165px;
 }
+#banner{
+  width: 100%
+  height: 10%
+}
 
